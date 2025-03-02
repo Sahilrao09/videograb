@@ -4,6 +4,7 @@ import reddit from "./assets/icons8-reddit.svg";
 import facebook from "./assets/icons8-facebook.svg";
 import twitter from "./assets/icons8-twitter.svg";
 import youtube from "./assets/icons8-youtube.svg";
+import backgroundImage from "../public/cornered-stairs.svg";
 
 const Home = () => {
   const [url, setUrl] = useState("");
